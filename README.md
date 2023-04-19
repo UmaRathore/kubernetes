@@ -1,2 +1,2 @@
 # kubernetes
-run Kafka on pstrimzi cluster
+POC to run Kafka on strimzi cluster
